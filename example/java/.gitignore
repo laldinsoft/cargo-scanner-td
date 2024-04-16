@@ -2,4 +2,5 @@
 bin/
 docs/
 org/drinkless/tdlib/TdApi.java
+net/cargoscanner/api/telegram/TdApi.java
 td/

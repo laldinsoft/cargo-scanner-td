@@ -5,3 +5,5 @@
 docs/
 tdlib/
 vcpkg/
+*.iml
+.idea/
